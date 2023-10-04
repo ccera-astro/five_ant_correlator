@@ -70,7 +70,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1800, 232.0]
+    coordinate: [2176, 104.0]
     rotation: 0
     state: true
 - name: blocks_delay_0
@@ -89,7 +89,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [248, 416.0]
+    coordinate: [336, 416.0]
     rotation: 0
     state: true
 - name: blocks_delay_0_0
@@ -108,7 +108,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [248, 496.0]
+    coordinate: [336, 496.0]
     rotation: 0
     state: true
 - name: blocks_delay_0_0_0
@@ -127,7 +127,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [248, 576.0]
+    coordinate: [336, 576.0]
     rotation: 0
     state: true
 - name: blocks_delay_0_0_0_0
@@ -146,7 +146,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [240, 656.0]
+    coordinate: [344, 656.0]
     rotation: 0
     state: true
 - name: blocks_delay_0_0_0_0_0
@@ -165,29 +165,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [232, 752.0]
-    rotation: 0
-    state: true
-- name: blocks_file_source_0
-  id: blocks_file_source
-  parameters:
-    affinity: ''
-    alias: ''
-    begin_tag: pmt.PMT_NIL
-    comment: ''
-    file: /dev/zero
-    length: '0'
-    maxoutbuf: '0'
-    minoutbuf: '0'
-    offset: '0'
-    repeat: 'False'
-    type: complex
-    vlen: '1'
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [8, 300.0]
+    coordinate: [336, 736.0]
     rotation: 0
     state: true
 - name: blocks_interleave_0
@@ -206,7 +184,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1992, 304.0]
+    coordinate: [2448, 104.0]
     rotation: 0
     state: true
 - name: blocks_keep_one_in_n_0
@@ -224,7 +202,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1512, 156.0]
+    coordinate: [1712, 132.0]
     rotation: 0
     state: true
 - name: blocks_multiply_conjugate_cc_0
@@ -240,7 +218,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [904.0, 336]
+    coordinate: [896.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_0
@@ -256,7 +234,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1712.0, 336]
+    coordinate: [1648.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_1
@@ -272,7 +250,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1080.0, 336]
+    coordinate: [1072.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_2
@@ -288,7 +266,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1168.0, 336]
+    coordinate: [1160.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_3
@@ -304,7 +282,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1264.0, 336]
+    coordinate: [1248.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_4
@@ -320,7 +298,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1360.0, 336]
+    coordinate: [1328.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_5
@@ -336,7 +314,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1448.0, 336]
+    coordinate: [1408.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_6
@@ -352,7 +330,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1536.0, 336]
+    coordinate: [1488.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_7
@@ -368,7 +346,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1624.0, 336]
+    coordinate: [1568.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_conjugate_cc_0_8
@@ -384,7 +362,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [992.0, 336]
+    coordinate: [984.0, 288]
     rotation: 90
     state: true
 - name: blocks_multiply_const_xx_0
@@ -402,7 +380,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [440, 492.0]
+    coordinate: [536, 492.0]
     rotation: 0
     state: true
 - name: blocks_multiply_const_xx_0_0
@@ -420,7 +398,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [440, 700.0]
+    coordinate: [536, 708.0]
     rotation: 0
     state: true
 - name: blocks_multiply_const_xx_0_1
@@ -438,7 +416,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [440, 564.0]
+    coordinate: [536, 564.0]
     rotation: 0
     state: true
 - name: blocks_multiply_const_xx_0_2
@@ -456,7 +434,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [440, 636.0]
+    coordinate: [536, 636.0]
     rotation: 0
     state: true
 - name: blocks_multiply_const_xx_0_3
@@ -474,7 +452,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [432, 420.0]
+    coordinate: [520, 420.0]
     rotation: 0
     state: true
 - name: blocks_streams_to_vector_0
@@ -492,27 +470,8 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1128.0, 88]
+    coordinate: [1128.0, 40]
     rotation: 90
-    state: true
-- name: blocks_throttle_0
-  id: blocks_throttle
-  parameters:
-    affinity: ''
-    alias: ''
-    comment: ''
-    ignoretag: 'True'
-    maxoutbuf: '0'
-    minoutbuf: '0'
-    samples_per_second: samp_rate
-    type: complex
-    vlen: '1'
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [40, 564.0]
-    rotation: 0
     state: true
 - name: blocks_vector_to_stream_0
   id: blocks_vector_to_stream
@@ -529,7 +488,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1744, 172.0]
+    coordinate: [1936, 116.0]
     rotation: 0
     state: true
 - name: d0
@@ -645,6 +604,45 @@ blocks:
     bus_source: false
     bus_structure: null
     coordinate: [312, 12.0]
+    rotation: 0
+    state: true
+- name: kaddr
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: '"Address of KrakenSDR Server"'
+    short_id: ''
+    type: str
+    value: '"127.0.0.1"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [184, 1052.0]
+    rotation: 0
+    state: true
+- name: krakensdr_krakensdr_source_0
+  id: krakensdr_krakensdr_source
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    ctrlPort: '5001'
+    debug: 'False'
+    freq: freq
+    gain: '[rfgain]*5'
+    ipAddr: kaddr
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    numChannels: '5'
+    port: '5000'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [32, 496.0]
     rotation: 0
     state: true
 - name: longitude
@@ -774,7 +772,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [2160, 52.0]
+    coordinate: [2664, 44.0]
     rotation: 0
     state: true
 - name: note_0
@@ -800,7 +798,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [632, 740.0]
+    coordinate: [888, 756.0]
     rotation: 0
     state: true
 - name: p0
@@ -894,7 +892,7 @@ blocks:
     alias: ''
     comment: ''
     hide: none
-    label: '"Fiel Prefix"'
+    label: '"Fike Prefix"'
     short_id: ''
     type: str
     value: '"./"'
@@ -903,6 +901,23 @@ blocks:
     bus_source: false
     bus_structure: null
     coordinate: [824, 948.0]
+    rotation: 0
+    state: true
+- name: rfgain
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: '"RF Gain"'
+    short_id: ''
+    type: eng_float
+    value: '35'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [368, 1052.0]
     rotation: 0
     state: true
 - name: single_pole_iir_filter_xx_0
@@ -920,7 +935,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1512, 28.0]
+    coordinate: [1520, 12.0]
     rotation: 0
     state: true
 
@@ -932,7 +947,6 @@ connections:
 - [blocks_delay_0_0_0, '0', blocks_multiply_const_xx_0_1, '0']
 - [blocks_delay_0_0_0_0, '0', blocks_multiply_const_xx_0_2, '0']
 - [blocks_delay_0_0_0_0_0, '0', blocks_multiply_const_xx_0_0, '0']
-- [blocks_file_source_0, '0', blocks_throttle_0, '0']
 - [blocks_interleave_0, '0', me_logger, '0']
 - [blocks_keep_one_in_n_0, '0', blocks_vector_to_stream_0, '0']
 - [blocks_multiply_conjugate_cc_0, '0', blocks_streams_to_vector_0, '0']
@@ -966,12 +980,12 @@ connections:
 - [blocks_multiply_const_xx_0_3, '0', blocks_multiply_conjugate_cc_0_2, '0']
 - [blocks_multiply_const_xx_0_3, '0', blocks_multiply_conjugate_cc_0_8, '0']
 - [blocks_streams_to_vector_0, '0', single_pole_iir_filter_xx_0, '0']
-- [blocks_throttle_0, '0', blocks_delay_0, '0']
-- [blocks_throttle_0, '0', blocks_delay_0_0, '0']
-- [blocks_throttle_0, '0', blocks_delay_0_0_0, '0']
-- [blocks_throttle_0, '0', blocks_delay_0_0_0_0, '0']
-- [blocks_throttle_0, '0', blocks_delay_0_0_0_0_0, '0']
 - [blocks_vector_to_stream_0, '0', blocks_complex_to_float_0, '0']
+- [krakensdr_krakensdr_source_0, '0', blocks_delay_0, '0']
+- [krakensdr_krakensdr_source_0, '1', blocks_delay_0_0, '0']
+- [krakensdr_krakensdr_source_0, '2', blocks_delay_0_0_0, '0']
+- [krakensdr_krakensdr_source_0, '3', blocks_delay_0_0_0_0, '0']
+- [krakensdr_krakensdr_source_0, '4', blocks_delay_0_0_0_0_0, '0']
 - [single_pole_iir_filter_xx_0, '0', blocks_keep_one_in_n_0, '0']
 
 metadata:
