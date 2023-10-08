@@ -645,6 +645,23 @@ blocks:
     coordinate: [32, 496.0]
     rotation: 0
     state: true
+- name: logtime
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: '"Logging Interval"'
+    short_id: ''
+    type: eng_float
+    value: '10'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [472, 1052.0]
+    rotation: 0
+    state: true
 - name: longitude
   id: parameter
   parameters:
@@ -752,7 +769,7 @@ blocks:
     legend: '"UTC,LMST,CH0_R,CH0_I,CH1_R,CH1_I,CH2_R,CH2_I,..."+"FREQ=%7.2f" % (freq/1.0e6)+",BW=%7.2f"
       % (samp_rate/1.0e6)'
     localtime: '0'
-    logtime: '10'
+    logtime: logtime
     longitude: longitude
     maxoutbuf: '0'
     minoutbuf: '0'
